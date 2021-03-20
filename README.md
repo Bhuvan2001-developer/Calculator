@@ -1,4 +1,4 @@
-# scifi_calc
+# calc
 
 A new Flutter project.
 
